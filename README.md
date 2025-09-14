@@ -19,7 +19,7 @@
 - **fig_randomwalk_paths.png** — 10 sample paths
 - **fig_randomwalk_distribution.png** — histogram vs Normal
 
-## Admissions-Ready Highlights
+## Highlights
 - Implemented Monte Carlo simulations of **stochastic processes** from scratch.
 - Verified convergence to exact probability laws and **CLT** empirically.
 - Produced reproducible results and clear visuals.
